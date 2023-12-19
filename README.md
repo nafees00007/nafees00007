@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nafees00007
 - 👀 I’m interested in ...DevOps
 - 🌱 I’m currently learning ...k8s,jenkins.terraform,AWS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...AWS and DevOps community
 - 📫 How to reach me ...nafeesanwer007@gmail.com
 
 <!---
